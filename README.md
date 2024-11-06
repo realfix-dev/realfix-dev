@@ -26,6 +26,9 @@ I'm FIX i'm an indie full-stack Developer, my job is to make fivem scripts, for 
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Fivem - NoPixel 4.0 Inspired Benny's System | FIX Developments](https://ytcards.demolab.com/?id=Sdb1471R1Ak&title=Fivem+-+NoPixel+4.0+Inspired+Benny%27s+System+%7C+FIX+Developments&lang=en&timestamp=1719433623&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Fivem - NoPixel 4.0 Inspired Benny's System | FIX Developments")](https://www.youtube.com/watch?v=Sdb1471R1Ak)
+[![Fivem - NoPixel 4.0 Inspired admin | FIX Developments](https://ytcards.demolab.com/?id=KDQiteiCqzA&title=Fivem+-+NoPixel+4.0+Inspired+admin+%7C+FIX+Developments&lang=en&timestamp=1718919971&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Fivem - NoPixel 4.0 Inspired admin | FIX Developments")](https://www.youtube.com/watch?v=KDQiteiCqzA)
+[![NoPixel full server Inspired 3.5 | NP-BASE](https://ytcards.demolab.com/?id=n4mGfHk9gBo&title=NoPixel+full+server+Inspired+3.5+%7C+NP-BASE&lang=en&timestamp=1671637656&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "NoPixel full server Inspired 3.5 | NP-BASE")](https://www.youtube.com/watch?v=n4mGfHk9gBo)
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
