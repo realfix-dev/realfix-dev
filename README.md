@@ -23,9 +23,8 @@ I'm FIX i'm an indie full-stack Developer, my job is to make fivem scripts, for 
 
 #
 
-### 🔗
+### 🔗 Connect with me:
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/F23Fv4Pxr9" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="rishavchanda" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@FIX-DEV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" /></a>
