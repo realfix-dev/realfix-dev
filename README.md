@@ -2,7 +2,7 @@
 
 **`(Developer)`**
 
-I'm FIX i'm an indie full-stack Developer, my job is to make fivem scripts, for about 4 years, I have been working in the field of creating fivem scripts, If you want to see my works, join my Discord server "[[FIX Developments | Official Discord Server](https://discord.gg/F23Fv4Pxr9)] and subscribe to my YouTube channel "[[FIX Developments YouTube channel](https://www.youtube.com/@FIX-DEV)].
+I'm FIX i'm an indie full-stack Developer, my job is to make fivem scripts, for about 4 years, I have been working in the field of creating fivem scripts, If you want to see my works, join my Discord server "[FIX Developments | Official Discord Server](https://discord.gg/F23Fv4Pxr9)" and subscribe to my YouTube channel "[FIX Developments YouTube channel](https://www.youtube.com/@FIX-DEV)".
 
 ---
 
