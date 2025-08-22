@@ -32,12 +32,6 @@ Hello, my name is FIX, i'm an indie full-stack Developer, my job is to make five
   </a>
 </p>
 
-<style>
-  a img:hover {
-    transform: scale(1.2);
-  }
-</style>
-
  <h2 align="center">Discord Profile</h2><br>
   <p align="center">
     <a href="https://discord.gg/">
