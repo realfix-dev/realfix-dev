@@ -24,10 +24,10 @@ Hello, my name is FIX, i'm an indie full-stack Developer, my job is to make five
 <h2 align="center">🔗 Contact Us</h2>
 
 <p align="center" style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
-  <a href="https://discord.gg/F23Fv4Pxr9" target="_blank" title="Join Fix Developments Discord">
+  <a href="https://discord.gg/F23Fv4Pxr9" target="_blank">
     <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Fix Developments Discord" height="40" width="40" style="transition: transform 0.3s;"/>
   </a>
-  <a href="https://www.youtube.com/@FIX-DEV" target="_blank" title="Watch Fix Developments YouTube">
+  <a href="https://www.youtube.com/@FIX-DEV" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Fix Developments YouTube" height="40" width="40" style="transition: transform 0.3s;"/>
   </a>
 </p>
