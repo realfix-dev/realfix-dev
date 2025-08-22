@@ -21,6 +21,8 @@ Hello, my name is FIX, i'm an indie full-stack Developer, my job is to make five
 <img align="left" alt="Vue" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
 <br />
 
+#
+
 ### 🔗 Contact Me
 
 <p align="center" style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
