@@ -4,7 +4,7 @@ Hello, my name is FIX, i'm an indie full-stack Developer, my job is to make five
 
 ---
 
-##### Languages/Frameworks that I'm experienced in:
+##### Languages/Frameworks that I have experienced in:
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)
 ![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)
