@@ -32,6 +32,13 @@ I'm FIX i'm an indie full-stack Developer, my job is to make fivem scripts, for 
 
 #
 
+ <h2 align="center">Discord Profile</h2><br>
+  <p align="center">
+    <a href="https://discord.gg/">
+        <img title="FIX Discord" alt="FIX Discord" src="https://discord.c99.nl/widget/theme-4/921901273484255292.png"/>
+    </a>
+</p>
+
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
