@@ -14,8 +14,6 @@ Hello, my name is FIX, i'm an indie full-stack Developer, my job is to make five
 ![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite)
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
 ![Svelte](https://img.shields.io/badge/-Svelte-05122A?style=flat&logo=svelte)
-![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss)<br>
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)<br>
 
 #
