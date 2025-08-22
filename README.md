@@ -2,7 +2,7 @@
 
 **`(Developer)`**
 
-I'm FIX i'm an indie full-stack Developer, my job is to make fivem scripts, for about 4 years, I have been working in the field of creating fivem scripts, If you want to see my works, join my Discord server "[FIX Developments | Official Discord Server](https://discord.gg/F23Fv4Pxr9)" and subscribe to my YouTube channel "[FIX Developments YouTube channel](https://www.youtube.com/@FIX-DEV)".
+Hello, my name is FIX, i'm an indie full-stack Developer, my job is to make fivem scripts, for about 4 years, I have been working in the field of creating fivem scripts, If you want to see my works, join my Discord server "[FIX Developments | Official Discord Server](https://discord.gg/F23Fv4Pxr9)" and subscribe to my YouTube channel "[FIX Developments YouTube channel](https://www.youtube.com/@FIX-DEV)".
 
 ---
 
@@ -21,14 +21,22 @@ I'm FIX i'm an indie full-stack Developer, my job is to make fivem scripts, for 
 <img align="left" alt="Vue" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
 <br />
 
-#
+<h2 align="center">🔗 Contact Us</h2>
 
-<h2 align="center">🔗 Contact me</h2><br>
-
-<p align="left">
-<a href="https://discord.gg/F23Fv4Pxr9" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="rishavchanda" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@FIX-DEV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" /></a>
+<p align="center" style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
+  <a href="https://discord.gg/F23Fv4Pxr9" target="_blank" title="Join Fix Developments Discord">
+    <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Fix Developments Discord" height="40" width="40" style="transition: transform 0.3s;"/>
+  </a>
+  <a href="https://www.youtube.com/@FIX-DEV" target="_blank" title="Watch Fix Developments YouTube">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Fix Developments YouTube" height="40" width="40" style="transition: transform 0.3s;"/>
+  </a>
 </p>
+
+<style>
+  a img:hover {
+    transform: scale(1.2);
+  }
+</style>
 
  <h2 align="center">Discord Profile</h2><br>
   <p align="center">
