@@ -10,7 +10,7 @@ Hello, my name is FIX, i'm an indie full-stack Developer, my job is to make five
 ![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb)
+![SolidJS](https://img.shields.io/badge/-SolidJS-05122A?style=flat&logo=solid)
 ![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite)
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
 ![Svelte](https://img.shields.io/badge/-Svelte-05122A?style=flat&logo=svelte)
